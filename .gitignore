@@ -1,0 +1,9 @@
+# Éditeur et système
+.vscode/
+.idea/
+Thumbs.db
+
+# Ne jamais publier les secrets
+.env
+.env.*
+!.env.example
